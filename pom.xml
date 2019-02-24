@@ -6,7 +6,7 @@
 
     <groupId>com.rnkrsoft.platform</groupId>
     <artifactId>interface-platform-client-spring-demo</artifactId>
-    <version>1.0.1-SNAPSHOT</version>
+    <version>1.0.2</version>
     <name>接口平台客户端集成spring方式调用演示例子</name>
     <properties>
      	<slf4j.version>1.7.25</slf4j.version>
@@ -28,7 +28,7 @@
         <dependency>
             <groupId>com.rnkrsoft.platform</groupId>
             <artifactId>interface-platform-client4j-sdk</artifactId>
-            <version>1.0.1</version>
+            <version>1.0.2</version>
         </dependency>
         <dependency>
             <groupId>org.springframework</groupId>

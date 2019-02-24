@@ -30,7 +30,7 @@ public class HelloServiceTest {
         request.setName("test sync");
         HelloResponse response = helloService.hello(request);
         System.out.println(response);
-        Thread.sleep(60 * 1000);
+//        Thread.sleep(60 * 1000);
     }
 
     @Test
